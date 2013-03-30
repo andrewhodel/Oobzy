@@ -8,4 +8,4 @@ The oobzy-titanium-ios-android-app folder contains the source for the Titanium a
 
 ## iOS screenshots
 
-![iOS1](https://github.com/andrewhodel/Oobzy/blob/master/iOS_screenshot.jpg "iOS1")
+![iOS1](https://raw.github.com/andrewhodel/Oobzy/master/iOS_screenshot.jpg "iOS1")
